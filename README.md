@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pardhavkrishna21
-- 👀 I’m interested in current technologies
-- 🌱 I’m currently learning DSA with JAVA and SPRING BOOT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in exploring new technologies, building innovative projects, and solving real-world problems through coding.
+- 🌱 I’m currently a 3rd-year CSE student, learning Java, Spring Boot, and full-stack development.
+- 💞️ I’m looking to collaborate on open-source projects, hackathons, and tech-based problem-solving initiatives. 
+- 📫 How to reach me linkedin - https://www.linkedin.com/in/pardava-devupalli/
 - 
 [![An image of @pardhavkrishna21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pardhavkrishna21)](https://holopin.io/@pardhavkrishna21)
 <!---
