@@ -1,5 +1,9 @@
+<!-- GitHub Profile Header -->
+<a href="https://github.com/pardhavkrishna21">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;&center=true&width=1000&height=50&color=63FFD1&vCenter=true&size=24" alt="Typing animation header" />
+</a>
 <h1 align="center">Hi 👋, I'm DEVUPALLI PARDAVA KRISHNAM NAIDU</h1>
-<h3 align="center">Studying B.TECH 3rd year in Computer Science Enginnering at viit, duvvada</h3>
+<h3 align="center">Studying B.TECH 3rd year in Computer Science Enginnering at viit, duvvada</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhavkrishna21&label=Profile%20views&color=0e75b6&style=flat" alt="pardhavkrishna21" /> </p>
 
@@ -26,11 +30,12 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> </a>
   <a style="margin-right:100px" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
   <a style="margin-right:100px"  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight" alt="pardhavkrishna21" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight" alt="pardhavkrishna21" /></p>
 <p><img align="center" src="https:/github-readme-streak-stats.herokuapp.com/?user=pardhavkrishna21&theme=tokyonight"  /></p>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pardhavkrishna21&theme=tokyonight)
+
+
 
 
