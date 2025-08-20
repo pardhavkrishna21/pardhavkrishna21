@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhavkrishna21&label=Profile%20views&color=0e75b6&style=flat" alt="pardhavkrishna21" /> </p>
 
-- 🌱 I’m currently learning **html,css & react**
+- 🌱 I’m currently learning **nlp,llm's**
 
 - 📫 How to reach me **pardava.devupalli@gmail.com**
 
