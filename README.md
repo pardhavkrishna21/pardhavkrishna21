@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Enthusiast;LLM+%26+NLP+Specialist&center=true&width=900&height=60&color=00d4ff&vCenter=true&size=28&duration=4000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Enthusiast;LLM+%26+NLP+Specialist&center=true&width=900&height=60&color=00d4ff&vCenter=true" alt="typing"/>
 </div>
 
 <!-- Profile Header -->
@@ -17,7 +17,6 @@
 
 <hr style="border: 2px solid #00d4ff;">
 
-<!-- About Section -->
 ## 🚀 About Me
 
 - 🎓 **B.Tech 3rd Year** - Computer Science & Engineering at **VIIT, Duvvada**
@@ -28,12 +27,11 @@
 
 <hr style="border: 2px solid #00d4ff;">
 
-<!-- Contact Section -->
 ## 📞 Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pardava-devupalli/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right:20px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.codechef.com/users/pardhavkrishna" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="margin-right:20px" />
@@ -45,62 +43,58 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin-right:20px" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/pardhav_krishna21/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" width="40" style="margin-right:20px" />
   </a>
 </p>
 
 <hr style="border: 2px solid #00d4ff;">
 
 <!-- Tech Stack Section -->
-## 🛠️ Languages and Tools:
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+    <img src="./assets/icons/python.svg" alt="python" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/javascript.svg" alt="javascript" width="64" height="64" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
+    <img src="./assets/icons/java.svg" alt="java" width="64" height="64" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.c.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />
+    <img src="./assets/icons/c.svg" alt="c" width="64" height="64" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/pandas.svg" alt="pandas" width="64" height="64" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" />
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/numpy.svg" alt="numpy" width="64" height="64" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50" />
+    <img src="./assets/icons/scikitlearn.svg" alt="scikit-learn" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/mysql.svg" alt="mysql" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/mongodb.svg" alt="mongodb" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/huggingface.svg" alt="huggingface" width="64" height="64" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/openai.svg" alt="openai" width="64" height="64" />
   </a>
 </p>
 
@@ -122,15 +116,14 @@
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="pardhavkrishna21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="stats"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pardhavkrishna21&theme=tokyonight&border=00d4ff&stroke=00d4ff" alt="pardhavkrishna21" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhavkrishna21&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="pardhavkrishna21" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhavkrishna21&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="top langs"/></p>
 
 <hr style="border: 2px solid #00d4ff;">
 
-<!-- Current Learning Section -->
 ## 🎓 Currently Learning
 
 - 🤖 **Advanced NLP & LLMs** - Transformer architectures and fine-tuning
@@ -140,7 +133,6 @@
 
 <hr style="border: 2px solid #00d4ff;">
 
-<!-- Footer -->
 <div align="center">
 
 ### 📍 Profile Views
