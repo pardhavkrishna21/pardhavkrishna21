@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Let's+build+with+React+%26+Spring+Boot&center=true&width=900&height=60&color=00d4ff&vCenter=true" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Let's+build+with+React+%26+Spring+Boot&center=true&width=900&height=60&color=00d4ff&vCenter=true" alt="typing"/>
 </div>
 
 <!-- Profile Header -->
@@ -31,33 +31,33 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pardava-devupalli/" target="blank" title="LinkedIn">
-    <span style="display:inline-block;background:#00d4ff;border-radius:8px;padding:6px;margin:6px">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <span style="display:inline-block;background:#00d4ff;border-radius:8px;padding:8px;margin:10px">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="filter:brightness(0) invert(1);display:block;" />
     </span>
   </a>
 
   <a href="https://www.codechef.com/users/pardhavkrishna" target="blank" title="CodeChef">
-    <span style="display:inline-block;background:#ff6a00;border-radius:8px;padding:6px;margin:6px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
+    <span style="display:inline-block;background:#ff6a00;border-radius:8px;padding:8px;margin:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="filter:brightness(0) invert(1);display:block;" />
     </span>
   </a>
 
   <a href="https://codeforces.com/profile/pardhav_krishna" target="blank" title="CodeForces">
-    <span style="display:inline-block;background:#1f8fff;border-radius:8px;padding:6px;margin:6px">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="40" width="40" />
+    <span style="display:inline-block;background:#1f8fff;border-radius:8px;padding:8px;margin:10px">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="40" width="40" style="filter:brightness(0) invert(1);display:block;" />
     </span>
   </a>
 
   <a href="https://leetcode.com/u/pardhav_krishna/" target="blank" title="LeetCode">
-    <span style="display:inline-block;background:#ffa116;border-radius:8px;padding:6px;margin:6px">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <span style="display:inline-block;background:#ffa116;border-radius:8px;padding:8px;margin:10px">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter:brightness(0) invert(1);display:block;" />
     </span>
   </a>
 
   <a href="https://www.geeksforgeeks.org/user/pardhav_krishna21/" target="blank" title="GeeksforGeeks">
-    <span style="display:inline-block;background:#2ecc71;border-radius:8px;padding:6px;margin:6px">
+    <span style="display:inline-block;background:#2ecc71;border-radius:8px;padding:8px;margin:10px">
       <!-- Using a direct GfG-hosted logo to ensure visibility -->
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" alt="GeeksforGeeks" height="40" width="40" />
+      <img src="https://media.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" alt="GeeksforGeeks" height="40" width="40" style="filter:brightness(0) invert(1);display:block;" />
     </span>
   </a>
 </p>
@@ -89,7 +89,7 @@
 ## 📊 GitHub Analytics
 
 <p>
-  <!-- Two separate stats images; these are the common endpoints many README's use. If they still don't load, GitHub may be blocking external images for your account or the service may be rate-limited. -->
+  <!-- Two separate stats images; these are the common endpoints many README's use. If they still don't load, GitHub may be blocking external images for your account or the service may be rate-limited -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="github stats" />
 </p>
 
