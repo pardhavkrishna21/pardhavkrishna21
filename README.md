@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Enthusiast;LLM+%26+NLP+Specialist&center=true&width=900&height=60&color=00d4ff&vCenter=true" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Enthusiast;LLM+%26+NLP+Specialist&center=true&width=900&height=60&color=00d4ff&vCente[...]"/>
 </div>
 
 <!-- Profile Header -->
@@ -19,8 +19,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech 3rd Year** - Computer Science & Engineering at **VIIT, Duvvada**
-- 🤖 **Passionate about** - AI, Machine Learning, LLMs, and NLP
+- 🎓 **Graduated (Batch 2026)** - Computer Science & Engineering at **VIIT, Duvvada**
+- 🤖 **Passionate about** - Building scalable projects using React and Spring Boot; also AI, Machine Learning, LLMs, and NLP
 - 💻 **Full Stack Developer** - Building scalable and interactive applications
 - 📚 **Continuous Learner** - Always exploring new technologies and frameworks
 - 🏆 **Competitive Programmer** - LeetCode, CodeForces, CodeChef enthusiast
@@ -105,7 +105,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Complete GenAI Course](https://github.com/pardhavkrishna21/Complete-GenAI-Course-Python-Langchain) | 45+ video Generative AI course with Python, LangChain & OpenAI | Python, LangChain, OpenAI |
+| [Complete GenAI Course](https://github.com/pardhavkrishna21/Complete-GenAI-Course-Python-Langchain) | 45+ video Generative AI course with Python, LangChain & OpenAI | Python, LangChain, OpenAI [...]
 | [Agro Care Smart Vision](https://github.com/pardhavkrishna21/agro-care-smart-vision) | AI-powered agricultural disease detection system | TensorFlow, CNN |
 | [Plant Leaf Disease Detection](https://github.com/pardhavkrishna21/PlantLeafDiseaseDetection) | Deep learning CNN for detecting crop diseases | TensorFlow, CNN |
 | [LLM Engineering](https://github.com/pardhavkrishna21/llm_engineering) | Mastering LLM engineering principles and practices | Python, LLM |
@@ -116,7 +116,7 @@
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="stats"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt=""/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pardhavkrishna21&theme=tokyonight&border=00d4ff&stroke=00d4ff" alt="pardhavkrishna21" /></p>
 
