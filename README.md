@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Let's+build+with+React+%26+Spring+Boot&center=true&width=900&height=60&color=00d4ff&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Let's+build+with+React+%26+Spring+Boot&center=true&width=900&height=60&color=00d4ff&vCenter=tru[...]"/>
 </div>
 
 <!-- Profile Header -->
@@ -40,7 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="40" width="40" />
   </a>
   <a href="https://leetcode.com/u/pardhav_krishna/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin-right:20px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style"="margin-right:20px" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/pardhav_krishna21/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
@@ -73,9 +73,9 @@
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="stats"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pardhavkrishna21&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff" alt="github stats"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhavkrishna21&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="top langs"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhavkrishna21&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="top langs"/>
 
 <hr style="border: 2px solid #00d4ff;">
 
@@ -84,18 +84,3 @@
 - ☁️ **Cloud Computing** - AWS services and deployment
 
 <hr style="border: 2px solid #00d4ff;">
-
-<div align="center">
-
-### 📍 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=pardhavkrishna21&label=Profile%20Views&color=00d4ff&style=for-the-badge)
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge" alt="Made with love"/>
-  <br/>
-  <strong>Let's build something amazing together! 🚀</strong>
-</p>
-
-</div>
