@@ -73,33 +73,16 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-- Java
-- JavaScript
-
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- React Router
-
-### ⚙️ Backend
-- Spring Boot
-- REST APIs
-- JDBC
-- Hibernate / JPA
-
-### 🗄️ Database
-- MySQL
-- SQL
-
-### ☁️ Tools &amp; Technologies
-- Git
-- GitHub
-- AWS
-- Docker
-- CI/CD
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Programming** | Java, JavaScript |
+| 🌐 **Frontend** | HTML5, CSS3, React, React Router |
+| ⚙️ **Backend** | Spring Boot, REST APIs, JDBC |
+| 🗄️ **Database** | MySQL, SQL |
+| 🧩 **Java Technologies** | OOP, Collections, JDBC, Hibernate/JPA |
+| ☁️ **Cloud** | AWS |
+| 🐳 **DevOps &amp; Tools** | Docker, Git, GitHub, CI/CD |
+| 🧠 **Problem Solving** | Data Structures &amp; Algorithms, Java |
 
 <hr style="border: 2px solid #00d4ff;">
 
@@ -107,10 +90,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🅿️ ParkSphere](https://github.com/pardhavkrishna21/park_spheree) | Smart parking and EV charging platform with driver, host and captain workflows | React, JavaScript, HTML, CSS |
-| [🔗 ReferLink](https://github.com/pardhavkrishna21/ReferLink) | Frontend platform for discovering and managing employee referral opportunities | React, JavaScript, HTML, CSS |
-| [👨‍🎓 Student Management System](https://github.com/pardhavkrishna21/student-_management) | Java CRUD application demonstrating OOP, Collections, JDBC and database operations | Java, JDBC, MySQL |
-| [🌱 AgroCare](https://github.com/pardhavkrishna21/agro-care-smart-vision) | Agriculture-focused web application for providing crop and plant-related information | React, JavaScript, HTML, CSS |
+| [🅿️ **ParkSphere**](https://github.com/pardhavkrishna21/park_spheree) | Smart parking and EV charging platform with driver, host and captain workflows | React, JavaScript, HTML, CSS |
+| [🔗 **ReferLink**](https://github.com/pardhavkrishna21/ReferLink) | Frontend platform for discovering and managing employee referral opportunities | React, JavaScript, HTML, CSS |
+| [👨‍🎓 **Student Management System**](https://github.com/pardhavkrishna21/student-_management) | Java CRUD application demonstrating OOP, Collections, JDBC and database operations | Java, JDBC, MySQL |
+| [🌱 **AgroCare**](https://github.com/pardhavkrishna21/agro-care-smart-vision) | Agriculture-focused web application for providing crop and plant-related information | React, JavaScript, HTML, CSS |
 
 <hr style="border: 2px solid #00d4ff;">
 
